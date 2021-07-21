@@ -27,6 +27,7 @@ function updateMap() {
         })
 }
 
-//Interval htr
+
+//done
 let interval = 20000;
 setInterval( updateMap, interval); 
